@@ -13,16 +13,16 @@
     }
   ],
   "docsets_to_publish": [ 
-4     { 
-5       "docset_name": "jeallyn", 
-6       "build_output_subfolder": "jeallyn", 
-7       "locale": "en-us", 
-8       "version": 0, 
-9       "open_to_public_contributors": true, 
-10       "type_mapping": { 
-11         "Conceptual": "Content" 
-12       } 
-13     } 
-14   ], 
+     { 
+       "docset_name": "jeallyn", 
+       "build_output_subfolder": "jeallyn", 
+       "locale": "en-us", 
+       "version": 0, 
+       "open_to_public_contributors": true, 
+       "type_mapping": { 
+         "Conceptual": "Content" 
+       } 
+     } 
+   ], 
   "notification_subscribers": []
 }
