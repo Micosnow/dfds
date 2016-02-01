@@ -10,9 +10,7 @@
       "type_mapping": {
         "Conceptual": "Content"
       }
-    }
-  ],
-  "docsets_to_publish": [ 
+    },
      { 
        "docset_name": "jeallyn", 
        "build_output_subfolder": "jeallyn", 
@@ -23,6 +21,6 @@
          "Conceptual": "Content" 
        } 
      } 
-   ], 
+  ],
   "notification_subscribers": []
 }
